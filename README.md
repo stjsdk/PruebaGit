@@ -12,3 +12,4 @@ Jesús Salazar
 * Configurar cuenta de usuario local
 * Generar commits (versiones)
 * Sincronizar repositorio local con remoto
+* Gaaaa
